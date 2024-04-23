@@ -40,6 +40,6 @@ g++ calculator.cpp -o Calculator.exe -mwindows
 ## Dependencies
 
 - Windows SDK
-- C++ compiler (e.g., GCC)
+- C++ compiler (MINGW, GCC)
 
 ---
